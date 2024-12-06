@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeartCoreAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20bb58ef64b5065327d6f4ea13af71b28cee2e44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7a672982525192ca57e1a863d91fc0ffec5db40")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeartCoreAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeartCoreAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
