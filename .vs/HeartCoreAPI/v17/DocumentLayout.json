@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\BTL_SEM_3_eProject\\HeartCoreAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D179A1F-BD9A-40AA-AE9B-0019229E5519}|HeartCoreAPI.csproj|c:\\users\\admin\\desktop\\btl_sem_3_eproject\\heartcoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D179A1F-BD9A-40AA-AE9B-0019229E5519}|HeartCoreAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D179A1F-BD9A-40AA-AE9B-0019229E5519}|HeartCoreAPI.csproj|c:\\users\\admin\\desktop\\btl_sem_3_eproject\\heartcoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D179A1F-BD9A-40AA-AE9B-0019229E5519}|HeartCoreAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D179A1F-BD9A-40AA-AE9B-0019229E5519}|HeartCoreAPI.csproj|c:\\users\\admin\\desktop\\btl_sem_3_eproject\\heartcoreapi\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D179A1F-BD9A-40AA-AE9B-0019229E5519}|HeartCoreAPI.csproj|solutionrelative:data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BTL_SEM_3_eProject\\HeartCoreAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BTL_SEM_3_eProject\\HeartCoreAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T02:07:48.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BTL_SEM_3_eProject\\HeartCoreAPI\\Data\\DataDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataDBContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BTL_SEM_3_eProject\\HeartCoreAPI\\Data\\DataDBContext.cs",
+              "RelativeToolTip": "Data\\DataDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:03:26.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BTL_SEM_3_eProject\\HeartCoreAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\BTL_SEM_3_eProject\\HeartCoreAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T02:07:53.243Z",
               "EditorCaption": ""
